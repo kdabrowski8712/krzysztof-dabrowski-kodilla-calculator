@@ -15,5 +15,7 @@ public class Calculator {
         System.out.println("Subtract 10 - 3 : " + c.subtractSecondMinusFirst(3,10));
         System.out.println("Sum 10 + 3: + " + c.sum(10,3));
 
+        System.out.println("4 commit auto");
+
     }
 }
